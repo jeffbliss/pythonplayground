@@ -102,3 +102,6 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# files in repo
+/redditBot/posts_replied_to.txt
